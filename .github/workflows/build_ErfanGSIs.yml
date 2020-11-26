@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.29_OTA_029_all_2009152105_a92d4caecd5e43bc.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://bigota.d.miui.com/V12.0.2.0.QFGCNXM/miui_LAVENDER_V12.0.2.0.QFGCNXM_722667568f_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
